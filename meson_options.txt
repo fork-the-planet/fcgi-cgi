@@ -1,0 +1,4 @@
+option('extra-warnings', type : 'boolean', value : true, description : 'Build with extra warnings enabled')
+
+option('search-lib', type : 'array', value : [], description: 'Search libs in additional paths')
+option('search-inc', type : 'array', value : [], description: 'Search includes in additional paths')
