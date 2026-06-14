@@ -6,7 +6,7 @@ project(
     'warning_level=2',
     'c_std=gnu99',
   ],
-  version: '0.2.2',
+  version: '0.2.3',
   license: 'BSD-3-Clause',
 )
 
