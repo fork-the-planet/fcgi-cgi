@@ -11,6 +11,10 @@ to execute standard cgi applications like mailman and cgit.
 
 fcgi-cgi is released under the [MIT license](https://git.lighttpd.net/lighttpd/fcgi-cgi/src/branch/master/COPYING).
 
+Similar projects:
+
+* [fcgiwrap](https://github.com/gnosek/fcgiwrap) (also available as [debian package](https://tracker.debian.org/pkg/fcgiwrap))
+
 ## Usage
 
 Examples for spawning a fcgi-cgi instance with daemontools or runit::
